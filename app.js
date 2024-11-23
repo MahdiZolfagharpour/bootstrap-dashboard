@@ -1,0 +1,3 @@
+function isLogin () {
+    return true
+}
