@@ -4,3 +4,5 @@ const isLogin = (username) => {
  }
 }
 const register = "user"
+
+let username = "mahdi"
