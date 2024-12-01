@@ -5,3 +5,6 @@ let islike = () => {
 let isDislike = () => {
     return false
 }
+let getMe = () => {
+    return user.name
+}
