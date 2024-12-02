@@ -8,3 +8,4 @@ let isDislike = () => {
 let getMe = () => {
     return user.name
 }
+let setComment = 'test'
