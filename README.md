@@ -1,14 +1,14 @@
-# Sabzlearn git course repository
+#  git course repository
 
-## Sabzlearn git course repository
+## git course repository
 
-### Sabzlearn git course repository
+###  git course repository
 
-#### Sabzlearn git course repository
+####  git course repository
 
-##### Sabzlearn git course repository
+#####  git course repository
 
-###### Sabzlearn git course repository
+######  git course repository
 ___
 this repo is for section sabzlearn git course 
 ____
