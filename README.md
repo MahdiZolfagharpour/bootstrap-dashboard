@@ -1,21 +1,16 @@
-#  git course repository
+# Bootstrap Dashboard
 
-## git course repository
+🔗 **Demo:** [View Dashboard](https://MahdiZolfagharpour.github.io/bootstrap-dashboard/)
 
-###  git course repository
+## About the Project
+This is a simple, responsive dashboard built with **HTML, CSS, and Bootstrap**.
 
-####  git course repository
+## Features
+✅ Responsive design using Bootstrap  
+✅ Utilizes Bootstrap's pre-built components  
+✅ Dark and light theme toggle functionality  
 
-#####  git course repository
-
-######  git course repository
-___
-this repo is for section sabzlearn git course 
-____
-
-
-
-## Authors
-
-- [@octokatherine](https://www.github.com/octokatherine)
-
+## How to Run
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/MahdiZolfagharpour/bootstrap-dashboard.git
