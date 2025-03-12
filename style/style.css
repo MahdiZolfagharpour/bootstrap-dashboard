@@ -1,0 +1,29 @@
+body{
+    font-family: YekanBakh;
+    margin: 0;
+    padding: 0;
+}
+
+@font-face {
+    font-family: YekanBakh;
+    font-style: normal;
+    font-weight: 900;
+    src: url("../fonts/YekanBakh-Heavy.630c4fa4.woff") format("woff");
+}
+
+@font-face {
+    font-family: YekanBakh;
+    font-style: normal;
+    font-weight: 500;
+    src: url("../fonts/YekanBakh-Medium.f7360956.woff") format("woff");
+}
+
+.logo-img{
+    width: 70px;
+}
+.user-img{
+    width: 32px;
+}
+.w_inherit {
+    width: inherit;
+}
